@@ -86,7 +86,7 @@ body {
     border: 2px solid var(--color-terciario);
     display: flex;
     justify-content: center;
-    gap: 16px;
+    gap: 10px;
 }
 .presentacion__enlaces__link:hover{
     background-color: var(--color-hover);
